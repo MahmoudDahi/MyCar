@@ -3,4 +3,5 @@
     <string name="brand">Brand :</string>
     <string name="year">Year :</string>
     <string name="no_internet">No Internet Connecting</string>
+    <string name="internet_connected">internet Connected</string>
 </resources>

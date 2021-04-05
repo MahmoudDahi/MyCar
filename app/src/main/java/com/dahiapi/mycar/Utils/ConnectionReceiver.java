@@ -24,6 +24,8 @@ public class ConnectionReceiver extends BroadcastReceiver {
                     activeNetwork.isConnectedOrConnecting();
             if (!isConnected) {
                 Toast.makeText(context, context.getString(R.string.no_internet), Toast.LENGTH_SHORT).show();
+            } else {
+                Toast.makeText(context, context.getString(R.string.internet_connected), Toast.LENGTH_SHORT).show();
             }
         }
 
