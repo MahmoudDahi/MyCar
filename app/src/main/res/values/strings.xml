@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Car</string>
+    <string name="brand">Brand :</string>
+    <string name="year">Year :</string>
+    <string name="no_internet">No Internet Connecting</string>
+</resources>
